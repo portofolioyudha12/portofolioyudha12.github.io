@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #dfdede;
+}
+
+#project {
+  background-color: #dfdede;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#mp {
+  text-shadow: 0px 3px 5px black;
+  font-size: 28px;
+}
